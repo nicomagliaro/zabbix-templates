@@ -28,5 +28,5 @@ Monitoring state of trunks and peers for FreePBX 13
     2) Copy files to /etc/zabbix/scripts
 
 Script usage:
-    ./freepbx-autodiscovery.sh trunks
-     ./freepbx-autodiscovery.sh trunk {trunkname}
+  -   ./freepbx-autodiscovery.sh trunks
+  -   ./freepbx-autodiscovery.sh trunk {trunkname}
